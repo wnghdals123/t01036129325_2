@@ -52,6 +52,6 @@
     리스트4
   </li>
 </ul>
-<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script type="text/script" src="index1.js"></script>
 </body>
 </html>
