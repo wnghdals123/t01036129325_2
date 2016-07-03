@@ -29,6 +29,8 @@
 <!-- 부트스트랩은 js 와 css 파일이 한쌍이다. -->
 <!-- 부트스트랩 js는 jQuery를 사용한다. 즉 jQuery 보다 밑에서 로드되어야 한다. -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
 <title>Insert title here</title>
 </head>
 <body>
