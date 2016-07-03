@@ -52,6 +52,6 @@
     리스트4
   </li>
 </ul>
-<script type="text/script" src="index1.js"></script>
+<script type="text/javascript" src="index1.js"></script>
 </body>
 </html>
